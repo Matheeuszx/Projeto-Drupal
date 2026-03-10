@@ -1,3 +1,3 @@
 #Repositorio remoto 
 
-remoto!
+remoto depois do clone
